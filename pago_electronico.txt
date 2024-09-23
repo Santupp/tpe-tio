@@ -1,0 +1,11 @@
+Los pagos electrónicos, también conocidos como sistemas de pago electrónico (EPS), son una forma de realizar transacciones financieras en línea sin necesidad de efectivo. 
+Los pagos electrónicos pueden realizarse de diversas maneras, como: 
+Tarjetas de crédito o débito
+Se pueden utilizar para realizar pagos directamente en una tienda o en línea. 
+Aplicaciones de pago móvil
+PayPal, Venmo, Zelle, entre otras, son aplicaciones que permiten realizar pagos. 
+Billeteras móviles
+Apple Pay, Google Pay, Samsung Pay, entre otras, son billeteras móviles que permiten realizar pagos. 
+Códigos QR
+Permiten realizar transferencias sin efectivo, escaneando un código que conecta al dispositivo con la plataforma necesaria para realizar el pago. 
+Los pagos electrónicos son una pieza fundamental del comercio electrónico, ya que facilitan la aceptación de pagos en línea. 
